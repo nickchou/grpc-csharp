@@ -1,1 +1,1 @@
-grpc-csharp
+grpc-netcore(.Net Core)
