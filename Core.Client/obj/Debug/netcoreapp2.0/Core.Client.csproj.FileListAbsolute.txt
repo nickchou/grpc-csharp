@@ -1,0 +1,13 @@
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\bin\Debug\netcoreapp2.0\Core.Client.deps.json
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\bin\Debug\netcoreapp2.0\Core.Client.runtimeconfig.json
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\bin\Debug\netcoreapp2.0\Core.Client.runtimeconfig.dev.json
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\bin\Debug\netcoreapp2.0\Core.Client.dll
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\bin\Debug\netcoreapp2.0\Core.Client.pdb
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\obj\Debug\netcoreapp2.0\Core.Client.csprojResolveAssemblyReference.cache
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\obj\Debug\netcoreapp2.0\Core.Client.csproj.CoreCompileInputs.cache
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\obj\Debug\netcoreapp2.0\Core.Client.AssemblyInfoInputs.cache
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\obj\Debug\netcoreapp2.0\Core.Client.AssemblyInfo.cs
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\obj\Debug\netcoreapp2.0\Core.Client.dll
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\obj\Debug\netcoreapp2.0\Core.Client.pdb
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\bin\Debug\netcoreapp2.0\Greeter.dll
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Core.Client\bin\Debug\netcoreapp2.0\Greeter.pdb

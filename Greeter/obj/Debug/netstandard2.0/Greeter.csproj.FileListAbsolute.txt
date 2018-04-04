@@ -1,0 +1,9 @@
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Greeter\bin\Debug\netstandard2.0\Greeter.deps.json
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Greeter\bin\Debug\netstandard2.0\Greeter.dll
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Greeter\obj\Debug\netstandard2.0\Greeter.csproj.CoreCompileInputs.cache
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Greeter\obj\Debug\netstandard2.0\Greeter.AssemblyInfoInputs.cache
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Greeter\obj\Debug\netstandard2.0\Greeter.AssemblyInfo.cs
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Greeter\bin\Debug\netstandard2.0\Greeter.pdb
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Greeter\obj\Debug\netstandard2.0\Greeter.dll
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Greeter\obj\Debug\netstandard2.0\Greeter.pdb
+D:\MyConfiguration\zl6216\Desktop\grpc-test\Greeter\obj\Debug\netstandard2.0\Greeter.csprojResolveAssemblyReference.cache
